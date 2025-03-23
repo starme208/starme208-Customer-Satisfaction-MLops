@@ -29,12 +29,12 @@ This project is an implementation of MLOps for a customer satisfaction predictio
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MGJillaniMughal/End-to-End-Customer-Satisfaction-Mlops-Project.git
+   git clone https://github.com/starme208/starme208-Customer-Satisfaction-MLops.git
    ```
    
 2. Navigate to the project directory:
    ```bash
-   cd End-to-End-Customer-Satisfaction-Mlops-Project
+   cd starme208-Customer-Satisfaction-MLops
    ```
 
 3. Install the required dependencies:
@@ -63,7 +63,3 @@ If you'd like to contribute, please fork the repository and use a feature branch
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
-
----
-
-Developed by [MGJillaniMughal](https://github.com/MGJillaniMughal).
